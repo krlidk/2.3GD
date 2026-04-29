@@ -5,7 +5,7 @@
 Este proyecto implementa un script modular en Python para la limpieza y validación de un dataset de ventas que contiene errores intencionados (duplicados, valores nulos, fechas inexistentes y edades fuera de rango).
 
 ## Estructura del Proyecto
-- `validador_datos.py`: Script principal con la lógica de validación.
+- `validacion.py`: Script principal con la lógica de validación.
 - `ventas_sucias.csv`: Dataset original con errores.
 - `registros_validos.csv`: Datos que pasaron todas las pruebas.
 - `registros_erroneos.csv`: Datos rechazados.
