@@ -1,0 +1,6 @@
+2026-04-29 18:08:40,777 - WARNING - Fila 5 (ID: 5): ID Duplicado detectado
+2026-04-29 18:08:40,777 - WARNING - Fila 8 (ID: 8): Campo obligatorio vacío: nombre
+2026-04-29 18:08:40,777 - WARNING - Fila 3 (ID: 4): Campo obligatorio vacío: monto
+2026-04-29 18:08:40,777 - WARNING - Fila 1 (ID: 2): Campo obligatorio vacío: edad
+2026-04-29 18:08:40,780 - WARNING - Fila 6 (ID: 6): Edad fuera de rango lógico: 150
+2026-04-29 18:08:40,781 - WARNING - Fila 9 (ID: 9): Fecha inexistente o formato inválido: 2023-13-01
